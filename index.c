@@ -2,6 +2,6 @@
 int main()
 {
 printf("hellow world\n");
-print("Second Commit");
-print("third commit");
+printf("Second Commit");
+printf("third commit");
 }
